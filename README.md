@@ -9,3 +9,5 @@
 
 #### UML
 ![Component Composition uml](assets/component-composition-part1.jpg)
+![Component Composition uml](assets/component-comp-part2.jpg)
+
