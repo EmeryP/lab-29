@@ -1,5 +1,5 @@
 ## Component Composition
-Simple excercise to learn React component composition by componetizing a simple app. View the apps starting with 1 and see how it's componetized in 2 and 3.
+Simple excercise to learn React component composition by componentizing a simple app. View the apps starting with 1 and see how it's componentized in 2 and functionalized in 3.
 
 ### Links
 * [Component Composition 1 Code Sandbox](https://codesandbox.io/s/v1yo96kmm7)
